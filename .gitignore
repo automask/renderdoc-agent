@@ -9,5 +9,6 @@ build/
 .venv/
 venv/
 env/
-.env
 .claude/
+config.bat
+node_modules
